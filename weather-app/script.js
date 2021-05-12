@@ -5,7 +5,7 @@ const celsiusTemperatureInfo = document.querySelector('.celsius')
 const fahrenheitTemperatureInfo = document.querySelector('.fahrenheit')
 const iconImg = document.getElementById('weather-icon')
 
-const apiKey = '68aa7d88c059eeaa568b6e775820f50d'
+const apiKey = '*******'
 window.addEventListener('load', () => {
   if (navigator.geolocation) {
     // if the user has geolocation active
